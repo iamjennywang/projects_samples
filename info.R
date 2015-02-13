@@ -1,0 +1,6 @@
+name = "Jenny Wang"
+email = "wangjenny@berkeley.edu"
+github_name = "iamjennywang"
+school = "University of California, Berkeley"
+status = "student"
+content = "project samples"
